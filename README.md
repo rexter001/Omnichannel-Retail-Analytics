@@ -9,11 +9,11 @@ The project focuses on analyzing customer purchasing behavior, customer segmenta
 
 ## Team Members
 
-- Member 1
-- Member 2
-- Member 3
-- Member 4
-- Member 5 (Team Lead)
+- Rindhiya A
+- Hemanth
+- Lakshmi B
+- Ramya Mogilireddy
+- Khaja Mastan Shaik (Team Lead)
 
 ---
 
