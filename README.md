@@ -171,34 +171,4 @@ Monetary  = SUM(TotalAmount)                              [per customer]
 ```
 
 The +1-day convention ensures the most-recent customer has Recency ≥ 1 and
-avoids data leakage from using an arbitrary future date.
-
----
-
-## Technologies Used
-
-| Technology     | Version  | Purpose                               |
-|----------------|----------|---------------------------------------|
-| Python         | 3.10+    | Core programming language             |
-| pandas         | 2.2.2    | Data loading, cleaning, aggregation   |
-| NumPy          | 1.26.4   | Numerical operations                  |
-| Jupyter        | 1.0.0    | Interactive notebook environment      |
-| notebook       | 7.2.1    | Notebook server                       |
-| ipykernel      | 6.29.5   | Python kernel for Jupyter             |
-
----
-
-## Project Standards
-
-- **PEP8** compliant Python code
-- **Docstrings** on every function (Google-style)
-- **Relative paths** — works on any machine after cloning
-- **Modular design** — each script is independently runnable
-- **No data leakage** — reference date derived from the data itself
-
----
-
-## Author
-
-Data Engineering Team  
-AI/ML Internship — Industry Mini Project
+avoids data leakage from using an arbitrary future 
