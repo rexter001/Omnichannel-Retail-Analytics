@@ -1,4 +1,4 @@
-Omnichannel Retail Customer Behavior Analytics & Multi-Horizon Demand Forecasting System
+## Omnichannel Retail Customer Behavior Analytics & Multi-Horizon Demand Forecasting System
 
 ## Project Overview
 This repository contains the implementation of our Week 3 AI/ML Internship Mini Project.
@@ -10,7 +10,7 @@ The project focuses on analyzing customer purchasing behavior, customer segmenta
 ## Team Members
 
 - Rindhiya A
-- Hemanth
+- Hemanth Chowdary
 - Lakshmi B
 - Ramya Mogilireddy
 - Khaja Mastan Shaik (Team Lead)
