@@ -21,11 +21,11 @@ The system combines **unsupervised learning, anomaly detection, and time series 
 
 ## 👥 Team Information
 
-- Member 1  
-- Member 2  
-- Member 3  
-- Member 4  
-- Member 5 (Team Lead)
+- Rinshiya A  
+- Hemanth Chowdary
+- Lakshmi B
+- Ramya Mogilireddy 
+- Khaja Mastan Shaik (Team Lead)
 
 ---
 
@@ -190,9 +190,9 @@ It enables:
 ## 📁 Repository Structure
 Omnichannel-Retail-Analytics/
 │
-├── member 1/
-├── member 2/
-├── member 3/
+├── member1/
+├── member2/
+├── member3/
 ├── member4/
 ├── member5/
 ├── .gitignore
