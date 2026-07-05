@@ -143,6 +143,3 @@ The model successfully:
 
 ---
 
-## Team Member
-
-- Ramya
