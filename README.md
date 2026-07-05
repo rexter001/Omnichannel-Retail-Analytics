@@ -188,8 +188,8 @@ It enables:
 ---
 
 ## Repository Structure
-Repository Structure
 
+```
 Omnichannel-Retail-Analytics/
 ├── member1/
 ├── member2/
@@ -197,7 +197,8 @@ Omnichannel-Retail-Analytics/
 ├── member4/
 ├── member5/
 ├── .gitignore
-└── README.md (FINAL ROOT README)
+└── README.md
+```
 
 
 ---
