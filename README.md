@@ -1,10 +1,10 @@
-# 🚀 Omnichannel Retail Customer Behavior Analytics & Multi-Horizon Demand Forecasting System
+# Omnichannel Retail Customer Behavior Analytics & Multi-Horizon Demand Forecasting System
 
 ## AI/ML Internship – Week 3 Mini Project
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project is an end-to-end **Retail Analytics and Machine Learning system** designed to extract business insights from large-scale transactional data.
 
@@ -19,7 +19,7 @@ The system combines **unsupervised learning, anomaly detection, and time series 
 
 ---
 
-## 👥 Team Information
+## Team Information
 
 - Rinshiya A  
 - Hemanth Chowdary
@@ -29,17 +29,17 @@ The system combines **unsupervised learning, anomaly detection, and time series 
 
 ---
 
-## 📊 Dataset Information
+## Dataset Information
 
 **Dataset Name:** Online Retail II Dataset  
 **Source:** Kaggle  
 
 
-### 📌 Dataset Overview:
+### Dataset Overview:
 - Total Records: 1,067,371  
 - Total Features: 8  
 
-### 📌 Features:
+### Features:
 - Invoice
 - StockCode
 - Description
@@ -51,7 +51,7 @@ The system combines **unsupervised learning, anomaly detection, and time series 
 
 ---
 
-## ⚙️ Project Pipeline
+## Project Pipeline
 
 ### 1. Import Libraries
 - Pandas, NumPy for data processing  
@@ -95,7 +95,7 @@ The system combines **unsupervised learning, anomaly detection, and time series 
 - PCA (Dimensionality Reduction)
 - K-Means Clustering
 
-### 📌 Business Personas:
+### Business Personas:
 - High-Value Loyal Customers
 - VIP Elite Customers
 - Occasional Buyers
@@ -107,11 +107,11 @@ The system combines **unsupervised learning, anomaly detection, and time series 
 ### 7. Anomaly Detection
 **Model Used:** Isolation Forest  
 
-### 📌 Purpose:
+### Purpose:
 - Detect abnormal transactions
 - Identify possible fraud or unusual buying behavior
 
-### 📌 Output:
+### Output:
 - Outlier scatter plot
 - Anomaly summary statistics
 
@@ -123,12 +123,12 @@ The system combines **unsupervised learning, anomaly detection, and time series 
 - ARIMA
 - Facebook Prophet
 
-### 📌 Components:
+### Components:
 - Trend Analysis
 - Seasonality Detection
 - Residual Noise
 
-### 📌 Evaluation Metrics:
+### Evaluation Metrics:
 - RMSE (Root Mean Squared Error)
 - MAPE (Mean Absolute Percentage Error)
 
@@ -136,18 +136,18 @@ The system combines **unsupervised learning, anomaly detection, and time series 
 
 ### 9. Business Strategy & Insights
 
-### 🎯 Customer-Based Strategies:
+### Customer-Based Strategies:
 - High-Value customers → Loyalty rewards & premium offers  
 - VIP customers → Exclusive access & retention programs  
 - Occasional buyers → Discount campaigns  
 - Churn-risk customers → Win-back strategies  
 
-### 📦 Inventory Optimization:
+### Inventory Optimization:
 - Use forecasting results for stock planning  
 - Reduce overstock and stockout situations  
 - Improve warehouse efficiency  
 
-### 📈 Marketing Optimization:
+### Marketing Optimization:
 - Personalized recommendations  
 - Targeted promotions  
 - Customer segmentation-based campaigns  
@@ -166,7 +166,7 @@ It enables:
 
 ---
 
-## 📊 Visual Deliverables Included
+## Visual Deliverables Included
 
 - 2D Cluster Scatter Plot (PCA Visualization)
 - Anomaly Detection Outlier Map
@@ -175,7 +175,7 @@ It enables:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Python  
 - Pandas, NumPy  
@@ -187,7 +187,7 @@ It enables:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 Omnichannel-Retail-Analytics/
 │
 ├── member1/
@@ -201,7 +201,7 @@ Omnichannel-Retail-Analytics/
 
 ---
 
-## 📚 References
+## References
 
 - Kaggle Dataset: Online Retail II  
 - Scikit-learn Documentation  
@@ -211,6 +211,6 @@ Omnichannel-Retail-Analytics/
 
 ---
 
-## 🏁 Final Note
+## Final Note
 
 This system provides a complete end-to-end pipeline for retail analytics, combining machine learning, forecasting, and business intelligence for real-world decision-making.
