@@ -1,38 +1,68 @@
-# Byte-compiled files
+
+# =====================
+# Byte-compiled / cache
+# =====================
 __pycache__/
 *.py[cod]
 *$py.class
 
-# Virtual Environment
+# =====================
+# Virtual Environments
+# =====================
 venv/
 env/
+ENV/
 .venv/
 
-# Jupyter Notebook
+# =====================
+# Jupyter Notebook checkpoints
+# =====================
 .ipynb_checkpoints/
 
-# VS Code
+# =====================
+# VS Code / IDEs
+# =====================
 .vscode/
-
-# PyCharm
 .idea/
 
-# macOS
+# =====================
+# OS files
+# =====================
 .DS_Store
-
-# Windows
 Thumbs.db
 
+# =====================
 # Environment Variables
+# =====================
 .env
 
-# Python packaging
+# =====================
+# Python build files
+# =====================
 build/
 dist/
 *.egg-info/
 
+# =====================
 # Logs
+# =====================
 *.log
 
+# =====================
 # Temporary files
+# =====================
 *.tmp
+
+# =====================
+# Model artifacts (optional safety)
+# =====================
+*.pkl
+*.joblib
+*.h5
+
+# =====================
+# Colab / notebook outputs (optional)
+# =====================
+# Uncomment if you want clean repo:
+# *.csv
+# *.xlsx
