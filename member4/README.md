@@ -1,4 +1,4 @@
-# Member 4 – Anomaly Detection & Demand Forecasting
+# Anomaly Detection & Demand Forecasting
 
 > AI/ML Internship Industry Mini Project  
 > Module: Anomaly Detection & Demand Forecasting
